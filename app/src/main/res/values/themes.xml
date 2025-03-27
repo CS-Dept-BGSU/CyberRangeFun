@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.CyberRangeFun" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#388E3C</item>
+        <item name="colorAccent">#FF5722</item>
+    </style>
+</resources>

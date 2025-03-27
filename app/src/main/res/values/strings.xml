@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CyberRangeFun</string>
+    <string name="start_service">Start Service</string>
+    <string name="service_status">Status: %1$s</string>
+
+    <string name="hacked_message">Hacked lol!\n%1$s\n%2$s\n%3$s\n%4$s\n%5$s</string>
+
+    <!-- Individual data breach messages -->
+    <string name="sms_read">Your SMS messages have been read</string>
+    <string name="location_tracked">Your current location has been tracked</string>
+    <string name="contacts_copied">Your contacts have been copied</string>
+    <string name="photos_scanned">Your photos have been scanned</string>
+    <string name="history_recorded">Your browsing history has been recorded</string>
+
+    <!-- Notification settings dialog -->
+    <string name="notification_prompt_title">Enable Notifications</string>
+    <string name="notification_prompt_message">This app requires notifications to function properly. Please enable notifications in the app settings.</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="later">Later</string>
+    <string name="notification_denied_message">App functionality will be limited without notifications</string>
+
+    <!-- Notification channel -->
+    <string name="notification_channel_name">CyberRangeFun Notifications</string>
+    <string name="notification_channel_description">Notifications from CyberRangeFun app</string>
+
+    <!-- Notification content -->
+    <string name="notification_title">Check the App</string>
+    <string name="notification_content">Your sensitive data has been accessed</string>
+    <string name="cyberrangefun_app">CyberRangeFun App</string>
+    <string name="this_app_demonstrates_how_malware_can_start_automatically_after_device_boot_and_start_a_malicious_service">This app demonstrates how malware can start automatically after device boot and start a malicious service.</string>
+    <string name="do_you_want_to_see_something_cool_press_the_button">Do you want to see something cool? Press the button!!</string>
+    <string name="check_this_out">CHECK THIS OUT!</string>
+    <string name="for_educational_purposes_only">FOR EDUCATIONAL PURPOSES ONLY</string>
+</resources>
